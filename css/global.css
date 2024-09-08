@@ -124,7 +124,7 @@ footer{
 @keyframes fadedown {
     from{
         opacity: 1;
-        width: 70vw;
+        width: 40vw;
     }
     to{
         opacity: 0;

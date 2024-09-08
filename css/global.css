@@ -67,6 +67,7 @@ main h2:after {
 }
 .card{
     margin: 5rem 0.2rem;
+    text-align: center;
 }
 .card p{
     margin-left: 2rem;

@@ -14,3 +14,4 @@ setInterval(() => {
     visualImageEle.innerHTML = `<img src="image/visual/${i % imageNum + 1}.png" class="imageAnime">`;
     i++;
 }, time);
+

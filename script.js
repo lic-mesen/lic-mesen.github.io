@@ -11,7 +11,7 @@ let i = 1;
 const time = 7000;
 visualImageEle.innerHTML = `<img src="image/visual/1.png" class="imageAnime" width="300" height="100">`;
 setInterval(() => {
-    visualImageEle.innerHTML = `<img src="image/visual/${i % imageNum + 1}.png" class="imageAnime">`;
+    visualImageEle.innerHTML = `<img src="image/visual/${i % imageNum + 1}.jpeg" class="imageAnime">`;
     i++;
 }, time);
 
